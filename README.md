@@ -4,6 +4,8 @@
 
 Code for Handwriting Recognition Course 2020 RUG
 
+This project is part of the course Handwriting Recognition in the University of Groningen
+
 ---
 
 Authors:
