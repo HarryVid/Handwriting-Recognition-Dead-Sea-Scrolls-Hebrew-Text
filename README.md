@@ -54,3 +54,7 @@ To run the code follow the command and enter the folder which contains the image
 **character_recognition** module contains script to recognize the segmented characters.
 
 **style_classification** module contains styleClassificationTest script to perform the final period classification using the segmented characters.
+
+Download the hebrew text dataset from the official dead sea scrolls website
+
+Please read the included research papers for end to end system architecture, experiments conducted and results obtained
