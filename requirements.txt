@@ -1,0 +1,13 @@
+imutils
+scikit-image
+scikit-learn==0.23.1
+matplotlib
+heapq_max
+pytest-shutil
+tqdm
+argparse
+opencv-python
+glob3
+statistics
+keras==2.2.4
+tensorflow
