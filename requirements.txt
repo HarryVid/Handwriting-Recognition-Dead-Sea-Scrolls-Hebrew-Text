@@ -1,6 +1,6 @@
 imutils
 scikit-image
-scikit-learn==0.23.1
+scikit-learn==1.5.0
 matplotlib
 heapq_max
 pytest-shutil
@@ -9,5 +9,5 @@ argparse
 opencv-python
 glob3
 statistics
-keras==2.2.4
+keras==2.13.1
 tensorflow
